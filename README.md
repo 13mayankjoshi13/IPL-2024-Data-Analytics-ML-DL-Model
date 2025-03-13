@@ -18,12 +18,14 @@ Deep Learning: Implementing deep learning techniques for more advanced predictiv
 
 Team Formation: Using player performance metrics to form optimal teams based on IPL 2024 data.
 
-Tools and Technologies
-Python
-Pandas, NumPy
-Matplotlib, Seaborn
-Scikit-learn (ML models)
-TensorFlow/Keras (Deep Learning)
-Jupyter Notebooks
-Dataset
-The dataset contains performance statistics for IPL 2024 players and can be accessed
+Tools and Technologies:-
+
+Python   
+Pandas, NumPy     
+Matplotlib, Seaborn    
+Scikit-learn (ML models)    
+TensorFlow/Keras (Deep Learning)    
+Jupyter Notebooks    
+Dataset   
+
+The dataset contains performance statistics for IPL 2024 players and can be accessed throught this github repository.
