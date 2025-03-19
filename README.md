@@ -25,7 +25,7 @@ Development Environment: Google Colab
 📂 Dataset
 
 The dataset used for this project contains IPL 2024 player statistics (runs, wickets, strike rates, etc.).
-Source: IPL 2024 Dataset
+Source: [IPL 2024 Dataset](https://raw.githubusercontent.com/13mayankjoshi13/IPL-2024-Data-Analytics-ML-DL-Model/refs/heads/main/IPL_2024_Players_Dataset.csv)
 
 
 📊 Results & Analysis
